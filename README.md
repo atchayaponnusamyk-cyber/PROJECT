@@ -3,6 +3,7 @@ Product Catalog with MongoDB
 The Product Catalog with MongoDB is a web-based application that allows users to add and view products in a clean, responsive interface. It serves as a prototype for managing product data and can be extended with MongoDB for real-time storage.
 
 Features
+
 Add new products with name, description, price, and image URL
 Display products in a responsive grid layout
 Clean and modern UI with internal CSS styling
@@ -10,22 +11,18 @@ Uses JavaScript for interactivity (no frameworks)
 Fully responsive design for mobile and desktop
 
 Tech Stack
+
 Technology	Purpose
 HTML5	Structure of the app
 CSS3	Styling and layout
 JavaScript (ES6)	Frontend logic and DOM manipulation
 
 Project Structure
+
 product-catalog/
 │
 ├── index.html        # Main file (HTML, CSS, and JS in one)
 └── README.md         # Project documentation
-
-How to Run
-Clone the repository
-
-git clone https://github.com/your-username/product-catalog.git
-
 
 Navigate into the project
 cd product-catalog
