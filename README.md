@@ -1,4 +1,5 @@
 Product Catalog with MongoDB
+
 The Product Catalog with MongoDB is a web-based application that allows users to add and view products in a clean, responsive interface. It serves as a prototype for managing product data and can be extended with MongoDB for real-time storage.
 
 Features
